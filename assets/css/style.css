@@ -3755,10 +3755,10 @@ blockquote {
 }
 
 @media screen and (max-width: 425px) {
-  /* .section-container {
+  .section-container {
     width: 94% !important;
     margin: 0 auto;
-  } */
+  }
 
   div.nav-bar.w-nav {
     display: flex !important;
