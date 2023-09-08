@@ -3753,3 +3753,18 @@ blockquote {
   font-style: normal;
   font-display: swap;
 }
+
+@media screen and (max-width: 425px) {
+  .section-container {
+    width: 94% !important;
+    margin: 0 auto;
+  }
+  div.nav-bar.w-nav {
+    display: flex !important;
+    align-items: center;
+  }
+
+  div.nav-bar.w-nav * {
+    padding: 0;
+  }
+}
