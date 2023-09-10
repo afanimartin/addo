@@ -2453,7 +2453,7 @@ blockquote {
 
 .hero-section.about-hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://uploads-ssl.webflow.com/6440409a565a545486e37de6/64431d8f96494e6eaffabec1_Hero%20Section-About-min.jpg");
+    url("https://res.cloudinary.com/dmyhendcr/image/upload/v1694337299/addo/about-hero_d9j462.jpg");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
