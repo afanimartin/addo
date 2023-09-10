@@ -2508,7 +2508,7 @@ blockquote {
 .hero-section.contact-hero {
   height: 80vh;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://uploads-ssl.webflow.com/6440409a565a545486e37de6/64432106b04ea652e5463727_mimi-thian-vdXMSiX-n6M-unsplash-min.jpg");
+    url("https://res.cloudinary.com/dmyhendcr/image/upload/v1694337674/addo/contact-hero_rdx2c6.jpg");
   background-position: 0 0, 50%;
   background-repeat: repeat, no-repeat;
   background-size: auto, cover;
